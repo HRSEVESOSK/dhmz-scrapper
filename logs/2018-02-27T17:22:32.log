@@ -1,0 +1,49 @@
+****** Scrapper process started on '2018-02-27T17:22:32.706937' 
+
+Processing observations for datetime: '2018-02-27T17:00:00'
+Observations for grad '111' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '112' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '113' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '114' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '153' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '115' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '116' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '117' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '118' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '119' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '120' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '121' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '122' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '123' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '124' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '125' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '127' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '128' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '129' and time '2018-02-27T17:00:00' are already stored in the database
+Inserting Observations for grad '130' and time '2018-02-27T16:00:00'
+Observations '{"Temp": " -7.2", "Vlaga": "64", "Tlak": "1013.4", "TlakTend": "+0.8", "VjetarSmjer": "NE", "VjetarBrzina": " 4.4", "Vrijeme": "potpuno oblačno", "VrijemeZnak": "6"}' succesfully inserted for time '2018-02-27T17:00:00' and FOI '130'
+Observations for grad '131' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '132' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '133' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '134' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '135' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '136' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '137' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '138' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '139' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '140' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '141' and time '2018-02-27T17:00:00' are already stored in the database
+Inserting Observations for grad '142' and time '2018-02-27T16:00:00'
+Observations '{"Temp": " -7.2", "Vlaga": "64", "Tlak": "1013.4", "TlakTend": "+0.8", "VjetarSmjer": "NE", "VjetarBrzina": " 4.4", "Vrijeme": "potpuno oblačno", "VrijemeZnak": "6"}' succesfully inserted for time '2018-02-27T17:00:00' and FOI '142'
+Observations for grad '143' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '144' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '145' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '146' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '147' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '148' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '149' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '150' and time '2018-02-27T17:00:00' are already stored in the database
+Observations for grad '151' and time '2018-02-27T17:00:00' are already stored in the database
+
+****** Scrapper process finished on '2018-02-27T17:22:34.125972' 
+

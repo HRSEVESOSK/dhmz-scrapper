@@ -56,9 +56,9 @@ for grad in root.findall('Grad'):
             insertObservation = connection.query(sql, False)
             connection.close()
             if(insertObservation):
-                print("Observations '%s' succesfully inserted for time '%s' and FOI '%s'" % (json_data,dateTimeString,gradOID))
+                print("Observations '%s' succesfully inserted for time '%s' and FOI '%s'" % (json_data.encode("utf-8"),dateTimeString,gradOID))
             else:
-                print("Failed insert for observations '%s' succesfully inserted for time '%s' and FOI '%s'" % (json_data, dateTimeString, gradOID))
+                print("Failed insert for observations '%s' succesfully inserted for time '%s' and FOI '%s'" % (json_data.encode("utf-8"), dateTimeString, gradOID))
         else:
             print("Observations for grad '%s' and time '%s' are already stored in the database" % (gradOID,(lastObsDateTime[0][0]).isoformat()))
             continue

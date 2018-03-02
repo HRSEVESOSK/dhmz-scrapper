@@ -1,0 +1,51 @@
+/usr/lib64/python2.7/site-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+  """)
+****** Scrapper process started on '2018-03-02T10:05:39.876920' 
+
+Processing observations for datetime: '2018-03-02T09:00:00'
+Observations for grad '1' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '2' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '3' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '4' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '5' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '6' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '7' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '8' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '9' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '10' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '11' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '12' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '13' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '14' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '15' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '16' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '17' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '18' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '19' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '20' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '21' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '22' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '23' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '24' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '25' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '26' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '27' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '28' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '29' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '30' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '31' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '32' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '33' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '34' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '35' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '36' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '37' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '38' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '39' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '40' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '41' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '42' and time '2018-03-02T09:00:00' are already stored in the database
+Observations for grad '43' and time '2018-03-02T09:00:00' are already stored in the database
+
+****** Scrapper process finished on '2018-03-02T10:05:41.011377' 
+

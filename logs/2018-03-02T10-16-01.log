@@ -1,0 +1,15 @@
+/usr/lib64/python2.7/site-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+  """)
+****** Scrapper process started on '2018-03-02T10:16:01.522073' 
+
+Processing observations for datetime: '2018-03-02T10:00:00'
+Observations for grad '1' and time '2018-03-02T10:00:00' are already stored in the database
+Observations for grad '2' and time '2018-03-02T10:00:00' are already stored in the database
+Observations for grad '3' and time '2018-03-02T10:00:00' are already stored in the database
+Observations for grad '4' and time '2018-03-02T10:00:00' are already stored in the database
+Observations for grad '44' and time '2018-03-02T10:00:00' are already stored in the database
+Inserting Observations for grad '5' and time '2018-03-02T10:00:00'
+Traceback (most recent call last):
+  File "scrapper.py", line 59, in <module>
+    print("Observations '%s' succesfully inserted for time '%s' and FOI '%s'" % (json_data.encode(),dateTimeString,gradOID))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u010d' in position 160: ordinal not in range(128)
